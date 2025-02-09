@@ -57,7 +57,7 @@ header {
 }
 
 .bestseller-image-container {
-    background: url("assets/images/bestsellerbg.webp") no-repeat center center;
+    background: url("/assets/images/bestsellerbg.webp") no-repeat center center;
     background-size: cover;
     height: 30vh;
     width: 100%;
